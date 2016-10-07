@@ -188,8 +188,8 @@ def sharif():
 
 	plot(result, y1)
 
-sharif()
-# yemen()
+# sharif()
+yemen()
 
 
 
